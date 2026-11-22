@@ -4,3 +4,17 @@ __pycache__/
 models/*.pth
 data/*.txt
 .env
+# Raw datasets
+data/raw/
+data/processed/
+
+# Python
+__pycache__/
+*.pyc
+
+# Model checkpoints
+*.pth
+*.pt
+
+# Jupyter
+.ipynb_checkpoints/
