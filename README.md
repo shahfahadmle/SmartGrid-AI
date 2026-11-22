@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SmartGrid AI
 
 Electricity Consumption Forecasting using PyTorch LSTM.
@@ -21,3 +22,6 @@ Electricity Consumption Forecasting using PyTorch LSTM.
 ## Objective
 Predict future household electricity consumption
 using historical time-series data and LSTM.
+=======
+# SmartGrid-AI
+>>>>>>> c789ca4ed334679856b2be2eb39126ac6530fde5
